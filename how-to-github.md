@@ -17,3 +17,9 @@ git remote add origin https://github.com/saisai/todo-api-microservice-example.gi
 git branch -M main
 git push -u origin main
 ```
+
+# To get the oldest (initial) commit in a Git repository, use the git log --reverse command combined with a tool to limit the output.
+
+```
+git log --reverse --oneline | head -n 5
+```
