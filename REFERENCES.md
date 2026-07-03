@@ -9,3 +9,5 @@ https://mariocarrion.com/archive.html
 
 https://github.com/golang-migrate/migrate/blob/master/database/postgres/TUTORIAL.md
 https://dev.to/oriiyx/migrations-with-go-postgres-54m9
+
+https://github.com/ory/dockertest/releases
