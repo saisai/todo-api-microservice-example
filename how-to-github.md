@@ -22,4 +22,18 @@ git push -u origin main
 
 ```
 git log --reverse --oneline | head -n 5
+
+```
+
+```
+git log --reverse --format="%H" | head -n 5
+git log --reverse | head -n 25
+```
+
+```
+git log --reverse --format="%H %s" | head -n 5
+```
+
+```
+git log --reverse --format="%H" | head -n 5
 ```
